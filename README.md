@@ -19,6 +19,7 @@ Atuo como **QA na Wing Solutions**, testando uma plataforma SaaS multi-tenant em
 
 ## 📂 Projetos em destaque
 
+- **[cypress-testes-e2e](https://github.com/janaina-da-conceicao/cypress-testes-e2e)** — Automação de testes E2E com Cypress: seletores robustos (`data-cy`), hooks e asserções encadeadas, testando uma aplicação própria de login.
 - **[QA-Portfolio](https://github.com/janaina-da-conceicao/QA-Portfolio)** — Portfólio de QA com cases documentados do bootcamp: testes manuais, cross-browser, API e automação.
 
 ## 🎓 Formação
